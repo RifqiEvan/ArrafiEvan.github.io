@@ -1,0 +1,26 @@
+.navbar ul li{
+    list-style:none; 
+    display:inline-block;
+    margin :20px;
+}
+.navbar ul li a{
+    text-decoration:none;
+    color:white;
+    background-color:brown;
+    font-size:15px;
+    font-family:arial,sans-serif
+}
+.van{
+    background-color:brown;
+    margin-top:10px;
+    text-align:center;
+    img{
+        width:500px;
+    }
+}
+h2{
+    text-align:left;
+}
+body{
+    background-color:yellow;
+}
